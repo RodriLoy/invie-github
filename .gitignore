@@ -55,8 +55,6 @@ mm.log
 
 *.sfuo
 
-TestCache.xml
 
-TestsResultsCache.xml
 
 # End of https://www.gitignore.io/api/salesforce
